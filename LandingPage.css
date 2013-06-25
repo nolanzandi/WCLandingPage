@@ -1,0 +1,17 @@
+center {
+display: block;
+text-align: -webkit-center;
+}
+.logo {
+width: 800px;
+height: 492px;
+margin-top: 80px;
+background: url(LandingPageImages/WagonchainLPLogo.png) no-repeat;
+}
+.contactlink {
+padding-top: 40px;
+padding-right: 55px;
+}
+.contactlink a {
+color: #273a97
+}
